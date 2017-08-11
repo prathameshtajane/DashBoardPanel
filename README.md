@@ -1,4 +1,4 @@
-#DashBoardPanel Template
+# DashBoardPanel Template
  
 This is a sample draft draggable dashboard template developed using [D3.js](https://d3js.org/)(Version 3.5.5),HTML,CSS.This template is made up of two parts,1) Control Panel(Static) and 2) Dashboard Panel(Draggable).
 D3.js is a JavaScript library for manipulating documents based on data. D3 helps to bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives us full capabilities of modern browsers without tying ourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
