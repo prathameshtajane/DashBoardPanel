@@ -21,8 +21,9 @@ or
 2.[Examples](https://github.com/d3/d3/wiki/Tutorials)
 
 ## Snapshots
-![Alt text](https://drive.google.com/file/d/0BzeLZmI8HMAwSU5PSkJYYmJhQ3c/view?usp=sharing “Snapshot 1”)
-![Alt text](https://drive.google.com/file/d/0BzeLZmI8HMAwOE1VdVlvczNGXzQ/view?usp=sharing “Snapshot 2”)
+![Alt text](https://drive.google.com/file/d/0BzeLZmI8HMAwNXdGYnVjeWc0Uzg/view?usp=sharing “Snapshot of Dashboard panel”)
+![Alt text](https://drive.google.com/file/d/0BzeLZmI8HMAwMFBvUzltQUJYU2c/view?usp=sharing “Snapshot Dashboard buttons”)
+![Alt text](https://drive.google.com/file/d/0BzeLZmI8HMAweGtRcW9tT0pLVG8/view?usp=sharing “Snapshot smooth dragging of dashboard”)
 
 ## Launching the Utility
 ```
